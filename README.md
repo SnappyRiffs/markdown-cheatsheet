@@ -1,7 +1,5 @@
 # Markdown Cheatsheet<a name="TOP"></a> #
 
-===================
-
 This provides useful tips on how to use Markdown (in Markdown)!
 
 
